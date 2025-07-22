@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=samahjoob&theme=midnight-purple&border_radius=50&card_width=480)](https://git.io/streak-stats)
 <!--
 **samahjoob/samahjoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
