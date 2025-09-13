@@ -14,9 +14,13 @@ I turn ideas into **clean, functional, and visually polished tools**.
 ---
 
 ## 🌍 Connect
-- GitHub: [github.com/samahjoob](https://github.com/samahjoob)  
-- X: [x.com/TheMahjoob](https://x.com/TheMahjoob)  
-- Telegram: [t.me/Samahjoob](https://t.me/Samahjoob)  
+GitHub: [github.com/samahjoob](https://github.com/samahjoob)
+
+Gravatar: [gravatar.com/sarmahjoob](https://gravatar.com/sarmahjoob)
+
+Telegram: [t.me/Samahjoob](https://t.me/Samahjoob)
+
+X: [x.com/TheMahjoob](https://x.com/TheMahjoob)
 
 ---
 
