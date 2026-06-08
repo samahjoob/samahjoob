@@ -20,7 +20,7 @@ Gravatar: [gravatar.com/sarmahjoob](https://gravatar.com/sarmahjoob)
 
 Telegram: [t.me/Samahjoob](https://t.me/Samahjoob)
 
-X: [x.com/TheMahjoob](https://x.com/TheMahjoob)
+X: [x.com/itsMahjoob](https://x.com/itsMahjoob)
 
 ---
 
