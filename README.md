@@ -1,27 +1,21 @@
-# 👨‍💻 Seyyed Ahmadreza Mahjoob  
+# 👋 Seyyed Ahmadreza Mahjoob
 
-Hi! I’m **Seyyed Ahmadreza Mahjoob**, a WordPress developer.  
-I turn ideas into **clean, functional, and visually polished tools**.  
+WordPress Developer • Plugin Creator • Problem Solver
 
----
+I build practical tools, WordPress plugins, and web solutions that combine functionality with a clean user experience.
 
-## 🔧 Skills
-- WordPress Plugin Development  
-- UI/UX Design & Styling  
-- Utility Tools  
-- Rapid Idea Execution  
+## 🛠️ Focus
 
----
+* WordPress Plugin Development
+* PHP & JavaScript
+* UI/UX Design
+* Automation & Utility Tools
 
-## 🌍 Connect
-GitHub: [github.com/samahjoob](https://github.com/samahjoob)
+## 🌐 Connect
 
-Gravatar: [gravatar.com/sarmahjoob](https://gravatar.com/sarmahjoob)
+* GitHub: https://github.com/samahjoob
+* Telegram: https://t.me/Samahjoob
+* X: https://x.com/itsMahjoob
+* Gravatar: https://gravatar.com/sarmahjoob
 
-Telegram: [t.me/Samahjoob](https://t.me/Samahjoob)
-
-X: [x.com/itsMahjoob](https://x.com/itsMahjoob)
-
----
-
-> "Ideas matter only when they come to life." ✨
+> Ideas matter only when they come to life. ✨
